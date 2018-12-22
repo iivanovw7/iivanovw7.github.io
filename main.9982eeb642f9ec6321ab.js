@@ -273,6 +273,83 @@ eval("module.exports = function(originalModule) {\n\tif (!originalModule.webpack
 
 /***/ }),
 
+/***/ "./src/img/icon1.png":
+/*!***************************!*\
+  !*** ./src/img/icon1.png ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/_/_/src/img/icon1.png\";\n\n//# sourceURL=webpack:///./src/img/icon1.png?");
+
+/***/ }),
+
+/***/ "./src/img/icon2.png":
+/*!***************************!*\
+  !*** ./src/img/icon2.png ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/_/_/src/img/icon2.png\";\n\n//# sourceURL=webpack:///./src/img/icon2.png?");
+
+/***/ }),
+
+/***/ "./src/img/icon3.png":
+/*!***************************!*\
+  !*** ./src/img/icon3.png ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/_/_/src/img/icon3.png\";\n\n//# sourceURL=webpack:///./src/img/icon3.png?");
+
+/***/ }),
+
+/***/ "./src/img/photo.png":
+/*!***************************!*\
+  !*** ./src/img/photo.png ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/_/_/src/img/photo.png\";\n\n//# sourceURL=webpack:///./src/img/photo.png?");
+
+/***/ }),
+
+/***/ "./src/img/tick.svg":
+/*!**************************!*\
+  !*** ./src/img/tick.svg ***!
+  \**************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"fonts/tick.svg\";\n\n//# sourceURL=webpack:///./src/img/tick.svg?");
+
+/***/ }),
+
+/***/ "./src/img/tick2.svg":
+/*!***************************!*\
+  !*** ./src/img/tick2.svg ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"fonts/tick2.svg\";\n\n//# sourceURL=webpack:///./src/img/tick2.svg?");
+
+/***/ }),
+
+/***/ "./src/img/trading_mobile.jpg":
+/*!************************************!*\
+  !*** ./src/img/trading_mobile.jpg ***!
+  \************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/_/_/src/img/trading_mobile.jpg\";\n\n//# sourceURL=webpack:///./src/img/trading_mobile.jpg?");
+
+/***/ }),
+
 /***/ "./src/index.js":
 /*!**********************!*\
   !*** ./src/index.js ***!
@@ -281,7 +358,7 @@ eval("module.exports = function(originalModule) {\n\tif (!originalModule.webpack
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\n__webpack_require__(/*! ./sass/main.sass */ \"./src/sass/main.sass\");\n\nvar _TweenMax = __webpack_require__(/*! gsap/TweenMax */ \"./node_modules/gsap/TweenMax.js\");\n\nvar btn_trading = document.getElementById('btn_trading');\nvar landing = document.getElementById(\"landing\");\nvar btn_wrapper = document.getElementsByClassName('btn_wrapper');\nvar mobileElements = document.getElementsByClassName('mobile_view');\nvar desktopElements = document.getElementsByClassName('desktop_view');\nvar navBlock = document.getElementById('navBlock');\nvar mainWrapper = document.getElementById(\"main_wrapper\");\n\nfunction mobile() {\n  return landing.offsetWidth < 600;\n}\n\nfunction renderIfMobile() {\n\n  document.getElementById(\"page_content\").style.width = mobile() ? '100%' : btn_wrapper[0].offsetWidth * 3;\n\n  if (!mobile()) {\n    var _iteratorNormalCompletion = true;\n    var _didIteratorError = false;\n    var _iteratorError = undefined;\n\n    try {\n      for (var _iterator = mobileElements[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {\n        var element = _step.value;\n\n        element.style.display = 'none';\n      }\n    } catch (err) {\n      _didIteratorError = true;\n      _iteratorError = err;\n    } finally {\n      try {\n        if (!_iteratorNormalCompletion && _iterator.return) {\n          _iterator.return();\n        }\n      } finally {\n        if (_didIteratorError) {\n          throw _iteratorError;\n        }\n      }\n    }\n  }\n\n  if (mobile()) {\n    var _iteratorNormalCompletion2 = true;\n    var _didIteratorError2 = false;\n    var _iteratorError2 = undefined;\n\n    try {\n      for (var _iterator2 = desktopElements[Symbol.iterator](), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {\n        var _element = _step2.value;\n\n        _element.style.display = 'none';\n      }\n    } catch (err) {\n      _didIteratorError2 = true;\n      _iteratorError2 = err;\n    } finally {\n      try {\n        if (!_iteratorNormalCompletion2 && _iterator2.return) {\n          _iterator2.return();\n        }\n      } finally {\n        if (_didIteratorError2) {\n          throw _iteratorError2;\n        }\n      }\n    }\n\n    mainWrapper.style.background = 'url(img/_/_/src/img/bg.jpg) center center / 900px 100%';\n  }\n}\n\nfunction getArrow(button) {\n\n  return button.querySelector('.arrow');\n}\n\nfunction pageSelected() {\n\n  var tl = new _TweenMax.TimelineLite();\n\n  if (!mobile()) {\n\n    var stage1 = document.getElementById(\"landing\"),\n        moving = document.getElementById(\"navBlock\");\n\n    document.body.style.overflowY = 'hidden';\n\n    tl.to(moving, 0.5, { y: -(document.getElementById('btn_trading_text').offsetTop - 30), opacity: 0.5 });\n\n    tl.to(stage1, 0.3, { opacity: 0 });\n\n    tl.to(stage1, 0.01, { display: 'none' });\n  } else {\n\n    var content = document.getElementById(\"trading_content_mobile\");\n    var newContent = document.getElementById('page_content');\n    var oldContent = document.getElementById('trading');\n    var arrow = getArrow(btn_trading);\n\n    document.body.style.overflowY = 'scroll';\n\n    if (arrow.classList.contains('opened')) {\n\n      _TweenMax.TweenMax.to(getArrow(btn_trading), 1, { rotation: 0 });\n\n      content.style.overflow = 'hidden';\n      content.style.paddingBottom = '0';\n      mainWrapper.style.height = '100%';\n      mainWrapper.style.background = 'url(img/_/_/src/img/bg.jpg) center center / 900px 100%';\n      //background: url(src/img/photo.png) bottom center / 100% 200px no-repeat;\n\n      var _oldheight = content.offsetHeight;\n\n      oldContent.appendChild(newContent);\n\n      _TweenMax.TweenMax.fromTo(content, 0.5, { height: _oldheight }, { height: content.offsetHeight, clearProps: 'height' });\n\n      arrow.classList.remove('opened');\n      return;\n    }\n\n    _TweenMax.TweenMax.to(getArrow(btn_trading), 1, { rotation: 180 });\n\n    content.style.overflow = 'hidden';\n    content.style.paddingBottom = '200px';\n\n    mainWrapper.style.height = navBlock.offsetHeight * 4.3;\n    mainWrapper.style.background = 'url(src/img/trading_mobile.jpg)';\n    content.style.background = 'url(src/img/photo.png) bottom center / 100% 200px no-repeat';\n\n    var oldheight = content.offsetHeight;\n    content.appendChild(newContent);\n\n    _TweenMax.TweenMax.fromTo(content, 0.5, { height: oldheight }, { height: content.offsetHeight, clearProps: 'height' });\n\n    arrow.classList.add('opened');\n  }\n}\n\nrenderIfMobile();\n\nbtn_trading.addEventListener('click', function () {\n\n  pageSelected();\n});\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("\n\n__webpack_require__(/*! ./sass/main.sass */ \"./src/sass/main.sass\");\n\nvar _TweenMax = __webpack_require__(/*! gsap/TweenMax */ \"./node_modules/gsap/TweenMax.js\");\n\nvar _trading_mobile = __webpack_require__(/*! ./img/trading_mobile.jpg */ \"./src/img/trading_mobile.jpg\");\n\nvar _trading_mobile2 = _interopRequireDefault(_trading_mobile);\n\nvar _photo = __webpack_require__(/*! ./img/photo.png */ \"./src/img/photo.png\");\n\nvar _photo2 = _interopRequireDefault(_photo);\n\nvar _icon = __webpack_require__(/*! ./img/icon1.png */ \"./src/img/icon1.png\");\n\nvar _icon2 = _interopRequireDefault(_icon);\n\nvar _icon3 = __webpack_require__(/*! ./img/icon2.png */ \"./src/img/icon2.png\");\n\nvar _icon4 = _interopRequireDefault(_icon3);\n\nvar _icon5 = __webpack_require__(/*! ./img/icon3.png */ \"./src/img/icon3.png\");\n\nvar _icon6 = _interopRequireDefault(_icon5);\n\nvar _tick = __webpack_require__(/*! ./img/tick.svg */ \"./src/img/tick.svg\");\n\nvar _tick2 = _interopRequireDefault(_tick);\n\nvar _tick3 = __webpack_require__(/*! ./img/tick2.svg */ \"./src/img/tick2.svg\");\n\nvar _tick4 = _interopRequireDefault(_tick3);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar btn_trading = document.getElementById('btn_trading');\nvar landing = document.getElementById(\"landing\");\nvar btn_wrapper = document.getElementsByClassName('btn_wrapper');\nvar mobileElements = document.getElementsByClassName('mobile_view');\nvar desktopElements = document.getElementsByClassName('desktop_view');\nvar navBlock = document.getElementById('navBlock');\nvar mainWrapper = document.getElementById(\"main_wrapper\");\n\nfunction mobile() {\n  return landing.offsetWidth < 600;\n}\n\nfunction renderIfMobile() {\n\n  document.getElementById(\"page_content\").style.width = mobile() ? '100%' : btn_wrapper[0].offsetWidth * 3;\n\n  if (!mobile()) {\n    var _iteratorNormalCompletion = true;\n    var _didIteratorError = false;\n    var _iteratorError = undefined;\n\n    try {\n      for (var _iterator = mobileElements[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {\n        var element = _step.value;\n\n        element.style.display = 'none';\n      }\n    } catch (err) {\n      _didIteratorError = true;\n      _iteratorError = err;\n    } finally {\n      try {\n        if (!_iteratorNormalCompletion && _iterator.return) {\n          _iterator.return();\n        }\n      } finally {\n        if (_didIteratorError) {\n          throw _iteratorError;\n        }\n      }\n    }\n  }\n\n  if (mobile()) {\n    var _iteratorNormalCompletion2 = true;\n    var _didIteratorError2 = false;\n    var _iteratorError2 = undefined;\n\n    try {\n      for (var _iterator2 = desktopElements[Symbol.iterator](), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {\n        var _element = _step2.value;\n\n        _element.style.display = 'none';\n      }\n    } catch (err) {\n      _didIteratorError2 = true;\n      _iteratorError2 = err;\n    } finally {\n      try {\n        if (!_iteratorNormalCompletion2 && _iterator2.return) {\n          _iterator2.return();\n        }\n      } finally {\n        if (_didIteratorError2) {\n          throw _iteratorError2;\n        }\n      }\n    }\n\n    mainWrapper.style.background = \"url(./src/img/bg.jpg) center center / 900px 100%\";\n  }\n}\n\nfunction getArrow(button) {\n\n  return button.querySelector('.arrow');\n}\n\nfunction pageSelected() {\n\n  var tl = new _TweenMax.TimelineLite();\n\n  if (!mobile()) {\n\n    var stage1 = document.getElementById(\"landing\"),\n        moving = document.getElementById(\"navBlock\");\n\n    document.body.style.overflowY = 'hidden';\n\n    tl.to(moving, 0.5, { y: -(document.getElementById('btn_trading_text').offsetTop - 30), opacity: 0.5 });\n\n    tl.to(stage1, 0.3, { opacity: 0 });\n\n    tl.to(stage1, 0.01, { display: 'none' });\n  } else {\n\n    var content = document.getElementById(\"trading_content_mobile\");\n    var newContent = document.getElementById('page_content');\n    var oldContent = document.getElementById('trading');\n    var arrow = getArrow(btn_trading);\n\n    document.body.style.overflowY = 'scroll';\n\n    if (arrow.classList.contains('opened')) {\n\n      _TweenMax.TweenMax.to(getArrow(btn_trading), 1, { rotation: 0 });\n\n      content.style.overflow = 'hidden';\n      content.style.paddingBottom = '0';\n      mainWrapper.style.height = '100%';\n      mainWrapper.style.background = 'url(./src/img/bg.jpg) center center / 900px 100%';\n\n      var _oldheight = content.offsetHeight;\n\n      oldContent.appendChild(newContent);\n\n      _TweenMax.TweenMax.fromTo(content, 0.5, { height: _oldheight }, { height: content.offsetHeight, clearProps: 'height' });\n\n      arrow.classList.remove('opened');\n      return;\n    }\n\n    _TweenMax.TweenMax.to(getArrow(btn_trading), 1, { rotation: 180 });\n\n    content.style.overflow = 'hidden';\n    content.style.paddingBottom = '200px';\n\n    mainWrapper.style.height = navBlock.offsetHeight * 4.3;\n    mainWrapper.style.background = 'url(./src/img/trading_mobile.jpg)';\n    content.style.background = 'url(./src/img/photo.png) bottom center / 100% 200px no-repeat';\n\n    var oldheight = content.offsetHeight;\n    content.appendChild(newContent);\n\n    _TweenMax.TweenMax.fromTo(content, 0.5, { height: oldheight }, { height: content.offsetHeight, clearProps: 'height' });\n\n    arrow.classList.add('opened');\n  }\n}\n\nrenderIfMobile();\n\nbtn_trading.addEventListener('click', function () {\n\n  pageSelected();\n});\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 
