@@ -10,7 +10,7 @@
     },
     {
       "name": "assets/css/chunk-0.css",
-      "size": 1699,
+      "size": 1945,
       "chunks": [
         0
       ],
@@ -38,7 +38,7 @@
     },
     {
       "name": "assets/js/main.bundle.js",
-      "size": 4433,
+      "size": 5352,
       "chunks": [
         0
       ],
@@ -134,7 +134,7 @@
     },
     {
       "name": "assets/js/npm.pixi.bundle.js",
-      "size": 302368,
+      "size": 302369,
       "chunks": [
         8
       ],
@@ -583,44 +583,6 @@
       "warnings": 0
     },
     {
-      "id": 8,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/@pixi/sprite/lib/sprite.es.js",
-      "name": "./node_modules/@pixi/sprite/lib/sprite.es.js",
-      "index": 36,
-      "index2": 31,
-      "size": 20283,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        8
-      ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-      "issuerId": 13,
-      "issuerName": "./node_modules/pixi.js/lib/pixi.es.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
-          "name": "./src/app.js"
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
-        },
-        {
-          "id": 13,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-          "name": "./node_modules/pixi.js/lib/pixi.es.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
       "id": 13,
       "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
       "name": "./node_modules/pixi.js/lib/pixi.es.js",
@@ -654,7 +616,40 @@
       "warnings": 0
     },
     {
-      "id": 43,
+      "id": 41,
+      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/styles/settings.js",
+      "name": "./src/styles/settings.js",
+      "index": 60,
+      "index2": 58,
+      "size": 912,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
+      "issuerId": null,
+      "issuerName": "./src/lib/scene.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
+          "name": "./src/lib/scene.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 44,
       "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/contacts-page/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/contacts-page/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/contacts-page/src/styles/main.pcss",
       "name": "./src/styles/main.pcss",
       "index": 1,
@@ -682,11 +677,11 @@
       "warnings": 0
     },
     {
-      "id": 57,
+      "id": 58,
       "identifier": "/home/iivanovw7/WEB/contacts-page/src/assets/svg sync /\\.svg$/",
       "name": "./src/assets/svg sync \\.svg$",
-      "index": 68,
-      "index2": 70,
+      "index": 69,
+      "index2": 71,
       "size": 179,
       "built": true,
       "optional": false,
@@ -709,11 +704,11 @@
       "warnings": 0
     },
     {
-      "id": 58,
+      "id": 59,
       "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/svg-sprite-loader/lib/loader.js!/home/iivanovw7/WEB/contacts-page/node_modules/svgo-loader/index.js!/home/iivanovw7/WEB/contacts-page/src/assets/svg/slashdot.svg",
       "name": "./src/assets/svg/slashdot.svg",
-      "index": 69,
-      "index2": 69,
+      "index": 70,
+      "index2": 70,
       "size": 1083,
       "cacheable": true,
       "built": true,
@@ -723,7 +718,7 @@
         0
       ],
       "issuer": "/home/iivanovw7/WEB/contacts-page/src/assets/svg sync /\\.svg$/",
-      "issuerId": 57,
+      "issuerId": 58,
       "issuerName": "./src/assets/svg sync \\.svg$",
       "issuerPath": [
         {
@@ -732,7 +727,7 @@
           "name": "./src/app.js"
         },
         {
-          "id": 57,
+          "id": 58,
           "identifier": "/home/iivanovw7/WEB/contacts-page/src/assets/svg sync /\\.svg$/",
           "name": "./src/assets/svg sync \\.svg$"
         }
@@ -742,12 +737,12 @@
       "warnings": 0
     },
     {
-      "id": 59,
+      "id": 60,
       "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js 726efdc990bdab908f7b4c6a35bd684a",
       "name": "./src/app.js + 11 modules",
       "index": 0,
-      "index2": 71,
-      "size": 7939,
+      "index2": 72,
+      "size": 8583,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -768,7 +763,7 @@
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
           "name": "./src/app.js",
           "index": 0,
-          "index2": 71,
+          "index2": 72,
           "size": 334,
           "cacheable": true,
           "built": true,
@@ -788,8 +783,8 @@
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
           "name": "./src/lib/scene.js",
           "index": 3,
-          "index2": 59,
-          "size": 2313,
+          "index2": 60,
+          "size": 2952,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -813,8 +808,8 @@
           "id": null,
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/utils/index.js",
           "name": "./src/utils/index.js",
-          "index": 65,
-          "index2": 65,
+          "index": 66,
+          "index2": 66,
           "size": 69,
           "cacheable": true,
           "built": true,
@@ -839,8 +834,8 @@
           "id": null,
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/contacts.js",
           "name": "./src/lib/contacts.js",
-          "index": 61,
-          "index2": 66,
+          "index": 62,
+          "index2": 67,
           "size": 1914,
           "cacheable": true,
           "built": true,
@@ -896,8 +891,8 @@
           "id": null,
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/contacts-page/src/assets/img/background.jpg",
           "name": "./src/assets/img/background.jpg",
-          "index": 60,
-          "index2": 58,
+          "index": 61,
+          "index2": 59,
           "size": 69,
           "cacheable": true,
           "built": true,
@@ -927,8 +922,8 @@
           "id": null,
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/constants/index.js",
           "name": "./src/constants/index.js",
-          "index": 63,
-          "index2": 61,
+          "index": 64,
+          "index2": 62,
           "size": 23,
           "cacheable": true,
           "built": true,
@@ -958,8 +953,8 @@
           "id": null,
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/config/contacts.js",
           "name": "./src/config/contacts.js",
-          "index": 62,
-          "index2": 62,
+          "index": 63,
+          "index2": 63,
           "size": 483,
           "cacheable": true,
           "built": true,
@@ -989,8 +984,8 @@
           "id": null,
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/utils/helpers.js",
           "name": "./src/utils/helpers.js",
-          "index": 66,
-          "index2": 63,
+          "index": 67,
+          "index2": 64,
           "size": 200,
           "cacheable": true,
           "built": true,
@@ -1020,8 +1015,8 @@
           "id": null,
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/utils/register-service-worker.js",
           "name": "./src/utils/register-service-worker.js",
-          "index": 67,
-          "index2": 64,
+          "index": 68,
+          "index2": 65,
           "size": 2112,
           "cacheable": true,
           "built": true,
@@ -1087,8 +1082,8 @@
           "id": null,
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/constants/keys.js",
           "name": "./src/constants/keys.js",
-          "index": 64,
-          "index2": 60,
+          "index": 65,
+          "index2": 61,
           "size": 76,
           "cacheable": true,
           "built": true,
@@ -1128,7 +1123,7 @@
       "name": "css ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./src/styles/main.pcss",
       "index": 2,
       "index2": 0,
-      "size": 1698,
+      "size": 1944,
       "built": false,
       "optional": false,
       "prefetched": false,
@@ -1136,7 +1131,7 @@
         0
       ],
       "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/contacts-page/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/contacts-page/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/contacts-page/src/styles/main.pcss",
-      "issuerId": 43,
+      "issuerId": 44,
       "issuerName": "./src/styles/main.pcss",
       "issuerPath": [
         {
@@ -1145,7 +1140,7 @@
           "name": "./src/app.js"
         },
         {
-          "id": 43,
+          "id": 44,
           "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/contacts-page/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/contacts-page/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/contacts-page/src/styles/main.pcss",
           "name": "./src/styles/main.pcss"
         }

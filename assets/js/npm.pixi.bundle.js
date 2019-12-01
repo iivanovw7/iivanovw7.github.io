@@ -88,7 +88,7 @@ r.b.UPLOADS_PER_FRAME=4;var u=function(t){this.maxItemsPerFrame=t,this.itemsLeft
  *
  * @pixi/filter-noise is licensed under the MIT License.
  * http://www.opensource.org/licenses/mit-license
- */},,,,function(t,e,i){"use strict";(function(t){var e=i(34),r=i(35),n=i.n(r);
+ */},,,,,function(t,e,i){"use strict";(function(t){var e=i(34),r=i(35),n=i.n(r);
 /*!
  * @pixi/polyfill - v5.2.0
  * Compiled Wed, 06 Nov 2019 02:32:43 UTC
