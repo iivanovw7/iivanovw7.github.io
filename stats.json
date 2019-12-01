@@ -38,7 +38,7 @@
     },
     {
       "name": "assets/js/main.bundle.js",
-      "size": 4429,
+      "size": 4433,
       "chunks": [
         0
       ],
@@ -747,7 +747,7 @@
       "name": "./src/app.js + 11 modules",
       "index": 0,
       "index2": 71,
-      "size": 7935,
+      "size": 7939,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -841,7 +841,7 @@
           "name": "./src/lib/contacts.js",
           "index": 61,
           "index2": 66,
-          "size": 1910,
+          "size": 1914,
           "cacheable": true,
           "built": true,
           "optional": false,
