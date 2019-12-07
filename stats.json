@@ -70,7 +70,7 @@
     },
     {
       "name": "assets/js/main.bundle.js",
-      "size": 8562,
+      "size": 8558,
       "chunks": [
         0
       ],
@@ -777,7 +777,7 @@
       "name": "./src/app.js + 19 modules",
       "index": 0,
       "index2": 89,
-      "size": 18312,
+      "size": 18308,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -897,7 +897,7 @@
           "name": "./src/templates/city.js",
           "index": 17,
           "index2": 78,
-          "size": 2451,
+          "size": 2447,
           "cacheable": true,
           "built": true,
           "optional": false,
