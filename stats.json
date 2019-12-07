@@ -2,7 +2,7 @@
   "assets": [
     {
       "name": "./index.html",
-      "size": 3297,
+      "size": 3538,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -10,7 +10,7 @@
     },
     {
       "name": "assets/css/chunk-0.css",
-      "size": 1945,
+      "size": 3818,
       "chunks": [
         0
       ],
@@ -21,8 +21,24 @@
       "emitted": false
     },
     {
-      "name": "assets/img/background.jpg",
-      "size": 102571,
+      "name": "assets/img/city_background.jpg",
+      "size": 333038,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/city_houses_1.png",
+      "size": 442284,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/city_houses_2.png",
+      "size": 822367,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -37,8 +53,24 @@
       "emitted": false
     },
     {
+      "name": "assets/img/road.png",
+      "size": 129518,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/tv.png",
+      "size": 24049,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
       "name": "assets/js/main.bundle.js",
-      "size": 5352,
+      "size": 8562,
       "chunks": [
         0
       ],
@@ -134,7 +166,7 @@
     },
     {
       "name": "assets/js/npm.pixi.bundle.js",
-      "size": 302369,
+      "size": 305209,
       "chunks": [
         8
       ],
@@ -146,7 +178,7 @@
     },
     {
       "name": "assets/js/npm.pixi.js.bundle.js",
-      "size": 1089,
+      "size": 863,
       "chunks": [
         9
       ],
@@ -181,10 +213,22 @@
       "emitted": false
     },
     {
+      "name": "assets/js/npm.redux.bundle.js",
+      "size": 4456,
+      "chunks": [
+        12
+      ],
+      "chunkNames": [
+        "npm.redux"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
       "name": "assets/js/npm.resource-loader.bundle.js",
       "size": 18227,
       "chunks": [
-        12
+        13
       ],
       "chunkNames": [
         "npm.resource-loader"
@@ -196,7 +240,7 @@
       "name": "assets/js/npm.setimmediate.bundle.js",
       "size": 1730,
       "chunks": [
-        13
+        14
       ],
       "chunkNames": [
         "npm.setimmediate"
@@ -208,7 +252,7 @@
       "name": "assets/js/npm.svg-baker-runtime.bundle.js",
       "size": 2953,
       "chunks": [
-        14
+        15
       ],
       "chunkNames": [
         "npm.svg-baker-runtime"
@@ -220,7 +264,7 @@
       "name": "assets/js/npm.svg-sprite-loader.bundle.js",
       "size": 9514,
       "chunks": [
-        15
+        16
       ],
       "chunkNames": [
         "npm.svg-sprite-loader"
@@ -229,10 +273,22 @@
       "emitted": false
     },
     {
+      "name": "assets/js/npm.symbol-observable.bundle.js",
+      "size": 466,
+      "chunks": [
+        17
+      ],
+      "chunkNames": [
+        "npm.symbol-observable"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
       "name": "assets/js/npm.timers-browserify.bundle.js",
       "size": 1131,
       "chunks": [
-        16
+        18
       ],
       "chunkNames": [
         "npm.timers-browserify"
@@ -244,7 +300,7 @@
       "name": "assets/js/npm.url.bundle.js",
       "size": 7762,
       "chunks": [
-        17
+        19
       ],
       "chunkNames": [
         "npm.url"
@@ -254,9 +310,9 @@
     },
     {
       "name": "assets/js/npm.webpack.bundle.js",
-      "size": 514,
+      "size": 859,
       "chunks": [
-        18
+        20
       ],
       "chunkNames": [
         "npm.webpack"
@@ -268,7 +324,7 @@
       "name": "assets/js/runtime.bundle.js",
       "size": 8639,
       "chunks": [
-        19
+        21
       ],
       "chunkNames": [
         "runtime"
@@ -280,10 +336,10 @@
   "modules": [
     {
       "id": 0,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/@pixi/utils/lib/utils.es.js",
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/@pixi/utils/lib/utils.es.js",
       "name": "./node_modules/@pixi/utils/lib/utils.es.js",
-      "index": 13,
-      "index2": 21,
+      "index": 28,
+      "index2": 35,
       "size": 24598,
       "cacheable": true,
       "built": true,
@@ -292,23 +348,28 @@
       "chunks": [
         8
       ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-      "issuerId": 13,
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/pixi.js/lib/pixi.es.js",
+      "issuerId": 17,
       "issuerName": "./node_modules/pixi.js/lib/pixi.es.js",
       "issuerPath": [
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "name": "./src/app.js"
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/templates/city.js",
+          "name": "./src/templates/city.js"
         },
         {
-          "id": 13,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/core/index.js",
+          "name": "./src/core/index.js"
+        },
+        {
+          "id": 17,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/pixi.js/lib/pixi.es.js",
           "name": "./node_modules/pixi.js/lib/pixi.es.js"
         }
       ],
@@ -317,277 +378,11 @@
       "warnings": 0
     },
     {
-      "id": 1,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/@pixi/constants/lib/constants.es.js",
-      "name": "./node_modules/@pixi/constants/lib/constants.es.js",
-      "index": 25,
-      "index2": 20,
-      "size": 14658,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        8
-      ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-      "issuerId": 13,
-      "issuerName": "./node_modules/pixi.js/lib/pixi.es.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
-          "name": "./src/app.js"
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
-        },
-        {
-          "id": 13,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-          "name": "./node_modules/pixi.js/lib/pixi.es.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "id": 2,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/@pixi/math/lib/math.es.js",
-      "name": "./node_modules/@pixi/math/lib/math.es.js",
-      "index": 27,
-      "index2": 22,
-      "size": 60184,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        8
-      ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-      "issuerId": 13,
-      "issuerName": "./node_modules/pixi.js/lib/pixi.es.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
-          "name": "./src/app.js"
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
-        },
-        {
-          "id": 13,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-          "name": "./node_modules/pixi.js/lib/pixi.es.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "id": 3,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/@pixi/core/lib/core.es.js",
-      "name": "./node_modules/@pixi/core/lib/core.es.js",
-      "index": 29,
-      "index2": 27,
-      "size": 377877,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        8
-      ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-      "issuerId": 13,
-      "issuerName": "./node_modules/pixi.js/lib/pixi.es.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
-          "name": "./src/app.js"
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
-        },
-        {
-          "id": 13,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-          "name": "./node_modules/pixi.js/lib/pixi.es.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "id": 4,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/@pixi/settings/lib/settings.es.js",
-      "name": "./node_modules/@pixi/settings/lib/settings.es.js",
-      "index": 14,
-      "index2": 10,
-      "size": 8258,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        8
-      ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-      "issuerId": 13,
-      "issuerName": "./node_modules/pixi.js/lib/pixi.es.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
-          "name": "./src/app.js"
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
-        },
-        {
-          "id": 13,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-          "name": "./node_modules/pixi.js/lib/pixi.es.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "id": 5,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/@pixi/display/lib/display.es.js",
-      "name": "./node_modules/@pixi/display/lib/display.es.js",
-      "index": 26,
-      "index2": 23,
-      "size": 56405,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        8
-      ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-      "issuerId": 13,
-      "issuerName": "./node_modules/pixi.js/lib/pixi.es.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
-          "name": "./src/app.js"
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
-        },
-        {
-          "id": 13,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-          "name": "./node_modules/pixi.js/lib/pixi.es.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "id": 6,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/@pixi/ticker/lib/ticker.es.js",
-      "name": "./node_modules/@pixi/ticker/lib/ticker.es.js",
-      "index": 31,
-      "index2": 26,
-      "size": 29297,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        8
-      ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-      "issuerId": 13,
-      "issuerName": "./node_modules/pixi.js/lib/pixi.es.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
-          "name": "./src/app.js"
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
-        },
-        {
-          "id": 13,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-          "name": "./node_modules/pixi.js/lib/pixi.es.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "id": 7,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/@pixi/runner/lib/runner.es.js",
-      "name": "./node_modules/@pixi/runner/lib/runner.es.js",
-      "index": 30,
-      "index2": 25,
-      "size": 5364,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        8
-      ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-      "issuerId": 13,
-      "issuerName": "./node_modules/pixi.js/lib/pixi.es.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
-          "name": "./src/app.js"
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
-        },
-        {
-          "id": 13,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
-          "name": "./node_modules/pixi.js/lib/pixi.es.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "id": 13,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/pixi.js/lib/pixi.es.js",
+      "id": 17,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/pixi.js/lib/pixi.es.js",
       "name": "./node_modules/pixi.js/lib/pixi.es.js",
-      "index": 4,
-      "index2": 55,
+      "index": 19,
+      "index2": 69,
       "size": 42045,
       "cacheable": true,
       "built": true,
@@ -596,52 +391,24 @@
       "chunks": [
         9
       ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/core/index.js",
       "issuerId": null,
-      "issuerName": "./src/lib/scene.js",
+      "issuerName": "./src/core/index.js",
       "issuerPath": [
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "name": "./src/app.js"
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "id": 41,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/styles/settings.js",
-      "name": "./src/styles/settings.js",
-      "index": 60,
-      "index2": 58,
-      "size": 912,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        0
-      ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-      "issuerId": null,
-      "issuerName": "./src/lib/scene.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
-          "name": "./src/app.js"
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/templates/city.js",
+          "name": "./src/templates/city.js"
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js"
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/core/index.js",
+          "name": "./src/core/index.js"
         }
       ],
       "failed": false,
@@ -650,7 +417,83 @@
     },
     {
       "id": 44,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/contacts-page/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/contacts-page/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/contacts-page/src/styles/main.pcss",
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svg-baker-runtime/browser-symbol.js",
+      "name": "./node_modules/svg-baker-runtime/browser-symbol.js",
+      "index": 82,
+      "index2": 79,
+      "size": 7486,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        15
+      ],
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svg-sprite-loader/lib/loader.js!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svgo-loader/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/svg/slashdot.svg",
+      "issuerId": 62,
+      "issuerName": "./src/assets/svg/slashdot.svg",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 61,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/svg sync /\\.svg$/",
+          "name": "./src/assets/svg sync \\.svg$"
+        },
+        {
+          "id": 62,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svg-sprite-loader/lib/loader.js!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svgo-loader/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/svg/slashdot.svg",
+          "name": "./src/assets/svg/slashdot.svg"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 45,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svg-sprite-loader/runtime/browser-sprite.build.js",
+      "name": "./node_modules/svg-sprite-loader/runtime/browser-sprite.build.js",
+      "index": 83,
+      "index2": 80,
+      "size": 27077,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        16
+      ],
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svg-sprite-loader/lib/loader.js!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svgo-loader/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/svg/slashdot.svg",
+      "issuerId": 62,
+      "issuerName": "./src/assets/svg/slashdot.svg",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 61,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/svg sync /\\.svg$/",
+          "name": "./src/assets/svg sync \\.svg$"
+        },
+        {
+          "id": 62,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svg-sprite-loader/lib/loader.js!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svgo-loader/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/svg/slashdot.svg",
+          "name": "./src/assets/svg/slashdot.svg"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 46,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/pixi-parallax-scroll/src/styles/main.pcss",
       "name": "./src/styles/main.pcss",
       "index": 1,
       "index2": 1,
@@ -662,13 +505,13 @@
       "chunks": [
         0
       ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
       "issuerId": null,
       "issuerName": "./src/app.js",
       "issuerPath": [
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "name": "./src/app.js"
         }
       ],
@@ -677,11 +520,11 @@
       "warnings": 0
     },
     {
-      "id": 58,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/src/assets/svg sync /\\.svg$/",
+      "id": 61,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/svg sync /\\.svg$/",
       "name": "./src/assets/svg sync \\.svg$",
-      "index": 69,
-      "index2": 71,
+      "index": 80,
+      "index2": 82,
       "size": 179,
       "built": true,
       "optional": false,
@@ -689,13 +532,13 @@
       "chunks": [
         0
       ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
       "issuerId": null,
       "issuerName": "./src/app.js",
       "issuerPath": [
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "name": "./src/app.js"
         }
       ],
@@ -704,11 +547,11 @@
       "warnings": 0
     },
     {
-      "id": 59,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/svg-sprite-loader/lib/loader.js!/home/iivanovw7/WEB/contacts-page/node_modules/svgo-loader/index.js!/home/iivanovw7/WEB/contacts-page/src/assets/svg/slashdot.svg",
+      "id": 62,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svg-sprite-loader/lib/loader.js!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/svgo-loader/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/svg/slashdot.svg",
       "name": "./src/assets/svg/slashdot.svg",
-      "index": 70,
-      "index2": 70,
+      "index": 81,
+      "index2": 81,
       "size": 1083,
       "cacheable": true,
       "built": true,
@@ -717,18 +560,18 @@
       "chunks": [
         0
       ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/src/assets/svg sync /\\.svg$/",
-      "issuerId": 58,
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/svg sync /\\.svg$/",
+      "issuerId": 61,
       "issuerName": "./src/assets/svg sync \\.svg$",
       "issuerPath": [
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "name": "./src/app.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/src/assets/svg sync /\\.svg$/",
+          "id": 61,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/svg sync /\\.svg$/",
           "name": "./src/assets/svg sync \\.svg$"
         }
       ],
@@ -737,12 +580,204 @@
       "warnings": 0
     },
     {
-      "id": 60,
-      "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js 726efdc990bdab908f7b4c6a35bd684a",
-      "name": "./src/app.js + 11 modules",
+      "id": 63,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+      "name": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$",
+      "index": 84,
+      "index2": 88,
+      "size": 262,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+      "issuerId": null,
+      "issuerName": "./src/app.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+          "name": "./src/app.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 64,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/city_background.jpg",
+      "name": "./src/assets/resources/city/city_background.jpg",
+      "index": 85,
+      "index2": 83,
+      "size": 74,
+      "cacheable": true,
+      "built": true,
+      "optional": true,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+      "issuerId": 63,
+      "issuerName": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 63,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+          "name": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 65,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/city_houses_1.png",
+      "name": "./src/assets/resources/city/city_houses_1.png",
+      "index": 86,
+      "index2": 84,
+      "size": 72,
+      "cacheable": true,
+      "built": true,
+      "optional": true,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+      "issuerId": 63,
+      "issuerName": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 63,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+          "name": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 66,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/city_houses_2.png",
+      "name": "./src/assets/resources/city/city_houses_2.png",
+      "index": 87,
+      "index2": 85,
+      "size": 72,
+      "cacheable": true,
+      "built": true,
+      "optional": true,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+      "issuerId": 63,
+      "issuerName": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 63,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+          "name": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 67,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/road.png",
+      "name": "./src/assets/resources/city/road.png",
+      "index": 88,
+      "index2": 86,
+      "size": 63,
+      "cacheable": true,
+      "built": true,
+      "optional": true,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+      "issuerId": 63,
+      "issuerName": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 63,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+          "name": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 68,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/tv.png",
+      "name": "./src/assets/resources/city/tv.png",
+      "index": 89,
+      "index2": 87,
+      "size": 61,
+      "cacheable": true,
+      "built": true,
+      "optional": true,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+      "issuerId": 63,
+      "issuerName": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 63,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+          "name": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 69,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js 3f7660accece099482dbd0af6954eb5d",
+      "name": "./src/app.js + 19 modules",
       "index": 0,
-      "index2": 72,
-      "size": 8583,
+      "index2": 89,
+      "size": 18312,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -760,11 +795,11 @@
       "modules": [
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "name": "./src/app.js",
           "index": 0,
-          "index2": 72,
-          "size": 334,
+          "index2": 89,
+          "size": 639,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -780,23 +815,23 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "name": "./src/lib/scene.js",
-          "index": 3,
-          "index2": 60,
-          "size": 2952,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/index.js",
+          "name": "./src/config/index.js",
+          "index": 11,
+          "index2": 11,
+          "size": 103,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "issuerId": null,
           "issuerName": "./src/app.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
               "name": "./src/app.js"
             }
           ],
@@ -806,23 +841,23 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/utils/index.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/utils/index.js",
           "name": "./src/utils/index.js",
-          "index": 66,
-          "index2": 66,
+          "index": 9,
+          "index2": 14,
           "size": 69,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "issuerId": null,
           "issuerName": "./src/app.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
               "name": "./src/app.js"
             }
           ],
@@ -832,23 +867,23 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/contacts.js",
-          "name": "./src/lib/contacts.js",
-          "index": 62,
-          "index2": 67,
-          "size": 1914,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/components/contacts.js",
+          "name": "./src/components/contacts.js",
+          "index": 3,
+          "index2": 15,
+          "size": 2847,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "issuerId": null,
           "issuerName": "./src/app.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
               "name": "./src/app.js"
             }
           ],
@@ -858,29 +893,24 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/config/scene.js",
-          "name": "./src/config/scene.js",
-          "index": 58,
-          "index2": 57,
-          "size": 271,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/templates/city.js",
+          "name": "./src/templates/city.js",
+          "index": 17,
+          "index2": 78,
+          "size": 2451,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "issuerId": null,
-          "issuerName": "./src/lib/scene.js",
+          "issuerName": "./src/app.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
               "name": "./src/app.js"
-            },
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-              "name": "./src/lib/scene.js"
             }
           ],
           "failed": false,
@@ -889,60 +919,29 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/contacts-page/src/assets/img/background.jpg",
-          "name": "./src/assets/img/background.jpg",
-          "index": 61,
-          "index2": 59,
-          "size": 69,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-          "issuerId": null,
-          "issuerName": "./src/lib/scene.js",
-          "issuerPath": [
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
-              "name": "./src/app.js"
-            },
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-              "name": "./src/lib/scene.js"
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/constants/index.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/constants/index.js",
           "name": "./src/constants/index.js",
-          "index": 64,
-          "index2": 62,
-          "size": 23,
+          "index": 5,
+          "index2": 5,
+          "size": 80,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/contacts.js",
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/components/contacts.js",
           "issuerId": null,
-          "issuerName": "./src/lib/contacts.js",
+          "issuerName": "./src/components/contacts.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
               "name": "./src/app.js"
             },
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/contacts.js",
-              "name": "./src/lib/contacts.js"
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/components/contacts.js",
+              "name": "./src/components/contacts.js"
             }
           ],
           "failed": false,
@@ -951,29 +950,29 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/config/contacts.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/contacts.js",
           "name": "./src/config/contacts.js",
-          "index": 63,
-          "index2": 63,
-          "size": 483,
+          "index": 4,
+          "index2": 6,
+          "size": 792,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/contacts.js",
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/components/contacts.js",
           "issuerId": null,
-          "issuerName": "./src/lib/contacts.js",
+          "issuerName": "./src/components/contacts.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
               "name": "./src/app.js"
             },
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/contacts.js",
-              "name": "./src/lib/contacts.js"
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/components/contacts.js",
+              "name": "./src/components/contacts.js"
             }
           ],
           "failed": false,
@@ -982,28 +981,121 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/utils/helpers.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/city.js",
+          "name": "./src/config/city.js",
+          "index": 12,
+          "index2": 8,
+          "size": 1123,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/index.js",
+          "issuerId": null,
+          "issuerName": "./src/config/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/index.js",
+              "name": "./src/config/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/loader.js",
+          "name": "./src/config/loader.js",
+          "index": 14,
+          "index2": 9,
+          "size": 484,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/index.js",
+          "issuerId": null,
+          "issuerName": "./src/config/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/index.js",
+              "name": "./src/config/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/common.js",
+          "name": "./src/config/common.js",
+          "index": 15,
+          "index2": 10,
+          "size": 167,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/index.js",
+          "issuerId": null,
+          "issuerName": "./src/config/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/config/index.js",
+              "name": "./src/config/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/utils/helpers.js",
           "name": "./src/utils/helpers.js",
-          "index": 67,
-          "index2": 64,
-          "size": 200,
+          "index": 10,
+          "index2": 12,
+          "size": 2048,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/utils/index.js",
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/utils/index.js",
           "issuerId": null,
           "issuerName": "./src/utils/index.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
               "name": "./src/app.js"
             },
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/utils/index.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/utils/index.js",
               "name": "./src/utils/index.js"
             }
           ],
@@ -1013,28 +1105,28 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/utils/register-service-worker.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/utils/register-service-worker.js",
           "name": "./src/utils/register-service-worker.js",
-          "index": 68,
-          "index2": 65,
-          "size": 2112,
+          "index": 16,
+          "index2": 13,
+          "size": 2212,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/utils/index.js",
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/utils/index.js",
           "issuerId": null,
           "issuerName": "./src/utils/index.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
               "name": "./src/app.js"
             },
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/utils/index.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/utils/index.js",
               "name": "./src/utils/index.js"
             }
           ],
@@ -1044,34 +1136,29 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/contacts-page/src/assets/img/cursor.png",
-          "name": "./src/assets/img/cursor.png",
-          "index": 59,
-          "index2": 56,
-          "size": 65,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/core/index.js",
+          "name": "./src/core/index.js",
+          "index": 18,
+          "index2": 76,
+          "size": 2292,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/config/scene.js",
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/templates/city.js",
           "issuerId": null,
-          "issuerName": "./src/config/scene.js",
+          "issuerName": "./src/templates/city.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
               "name": "./src/app.js"
             },
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/scene.js",
-              "name": "./src/lib/scene.js"
-            },
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/config/scene.js",
-              "name": "./src/config/scene.js"
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/templates/city.js",
+              "name": "./src/templates/city.js"
             }
           ],
           "failed": false,
@@ -1080,33 +1167,64 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/constants/keys.js",
-          "name": "./src/constants/keys.js",
-          "index": 65,
-          "index2": 61,
-          "size": 76,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/components/spinner.js",
+          "name": "./src/components/spinner.js",
+          "index": 79,
+          "index2": 77,
+          "size": 1383,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/constants/index.js",
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/templates/city.js",
+          "issuerId": null,
+          "issuerName": "./src/templates/city.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/templates/city.js",
+              "name": "./src/templates/city.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/constants/keys.js",
+          "name": "./src/constants/keys.js",
+          "index": 6,
+          "index2": 2,
+          "size": 136,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/constants/index.js",
           "issuerId": null,
           "issuerName": "./src/constants/index.js",
           "issuerPath": [
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
               "name": "./src/app.js"
             },
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/lib/contacts.js",
-              "name": "./src/lib/contacts.js"
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/components/contacts.js",
+              "name": "./src/components/contacts.js"
             },
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/constants/index.js",
+              "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/constants/index.js",
               "name": "./src/constants/index.js"
             }
           ],
@@ -1115,33 +1233,33 @@
           "warnings": 0
         }
       ],
-      "filteredModules": 0
+      "filteredModules": 5
     },
     {
       "id": "",
-      "identifier": "css /home/iivanovw7/WEB/contacts-page/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/contacts-page/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/contacts-page/src/styles/main.pcss 0",
+      "identifier": "css /home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/pixi-parallax-scroll/src/styles/main.pcss 0",
       "name": "css ./node_modules/css-loader/dist/cjs.js??ref--6-1!./node_modules/postcss-loader/src??ref--6-2!./src/styles/main.pcss",
       "index": 2,
       "index2": 0,
-      "size": 1944,
+      "size": 3817,
       "built": false,
       "optional": false,
       "prefetched": false,
       "chunks": [
         0
       ],
-      "issuer": "/home/iivanovw7/WEB/contacts-page/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/contacts-page/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/contacts-page/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/contacts-page/src/styles/main.pcss",
-      "issuerId": 44,
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/pixi-parallax-scroll/src/styles/main.pcss",
+      "issuerId": 46,
       "issuerName": "./src/styles/main.pcss",
       "issuerPath": [
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/contacts-page/src/app.js",
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "name": "./src/app.js"
         },
         {
-          "id": 44,
-          "identifier": "/home/iivanovw7/WEB/contacts-page/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/contacts-page/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/contacts-page/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/contacts-page/src/styles/main.pcss",
+          "id": 46,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/pixi-parallax-scroll/src/styles/main.pcss",
           "name": "./src/styles/main.pcss"
         }
       ],
