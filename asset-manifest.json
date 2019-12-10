@@ -23,6 +23,7 @@
   "npm.webpack.js": "assets/js/npm.webpack.bundle.js",
   "runtime.js": "assets/js/runtime.bundle.js",
   "./index.html": "./index.html",
+  "assets/img/car.png": "assets/img/car.png",
   "assets/img/city_background.jpg": "assets/img/city_background.jpg",
   "assets/img/city_houses_1.png": "assets/img/city_houses_1.png",
   "assets/img/city_houses_2.png": "assets/img/city_houses_2.png",

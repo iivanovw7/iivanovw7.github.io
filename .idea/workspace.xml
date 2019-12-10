@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1766d630-5509-49f8-a7da-047e0481144c" name="Default" comment="" />
+    <list default="true" id="1766d630-5509-49f8-a7da-047e0481144c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,27 +58,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="24" />
-    <option name="width" value="1916" />
-    <option name="height" value="1081" />
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1134" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="iivanovw7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iivanovw7.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,12 +79,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/_/_/src/img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -136,16 +128,18 @@
       <workItem from="1575221898699" duration="170000" />
       <workItem from="1575222589077" duration="1921000" />
       <workItem from="1575729959034" duration="535000" />
+      <workItem from="1575732884944" duration="1362000" />
+      <workItem from="1575873050626" duration="98000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5523000" />
+    <option name="totallyTimeSpent" value="6983000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1134" extended-state="6" />
+    <frame x="0" y="25" width="1600" height="834" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21665788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21623336" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -157,7 +151,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5060622" side_tool="true" weight="0.33007812" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4939378" visible="true" weight="0.32795155" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4939378" weight="0.32729104" />
       <window_info anchor="bottom" id="Docker" order="10" />
       <window_info anchor="bottom" id="GraphQL" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -183,9 +177,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.9982eeb642f9ec6321ab.js" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/assets/js/main.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>

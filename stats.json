@@ -21,6 +21,14 @@
       "emitted": false
     },
     {
+      "name": "assets/img/car.png",
+      "size": 5790,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
       "name": "assets/img/city_background.jpg",
       "size": 333038,
       "chunks": [],
@@ -62,7 +70,7 @@
     },
     {
       "name": "assets/img/tv.png",
-      "size": 24049,
+      "size": 24030,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -70,7 +78,7 @@
     },
     {
       "name": "assets/js/main.bundle.js",
-      "size": 8558,
+      "size": 8977,
       "chunks": [
         0
       ],
@@ -166,7 +174,7 @@
     },
     {
       "name": "assets/js/npm.pixi.bundle.js",
-      "size": 305209,
+      "size": 308389,
       "chunks": [
         8
       ],
@@ -178,7 +186,7 @@
     },
     {
       "name": "assets/js/npm.pixi.js.bundle.js",
-      "size": 863,
+      "size": 905,
       "chunks": [
         9
       ],
@@ -335,50 +343,7 @@
   ],
   "modules": [
     {
-      "id": 0,
-      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/@pixi/utils/lib/utils.es.js",
-      "name": "./node_modules/@pixi/utils/lib/utils.es.js",
-      "index": 28,
-      "index2": 35,
-      "size": 24598,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        8
-      ],
-      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/pixi.js/lib/pixi.es.js",
-      "issuerId": 17,
-      "issuerName": "./node_modules/pixi.js/lib/pixi.es.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
-          "name": "./src/app.js"
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/templates/city.js",
-          "name": "./src/templates/city.js"
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/core/index.js",
-          "name": "./src/core/index.js"
-        },
-        {
-          "id": 17,
-          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/pixi.js/lib/pixi.es.js",
-          "name": "./node_modules/pixi.js/lib/pixi.es.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "id": 17,
+      "id": 15,
       "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/pixi.js/lib/pixi.es.js",
       "name": "./node_modules/pixi.js/lib/pixi.es.js",
       "index": 19,
@@ -584,8 +549,8 @@
       "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
       "name": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$",
       "index": 84,
-      "index2": 88,
-      "size": 262,
+      "index2": 89,
+      "size": 276,
       "built": true,
       "optional": false,
       "prefetched": false,
@@ -608,11 +573,11 @@
     },
     {
       "id": 64,
-      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/city_background.jpg",
-      "name": "./src/assets/resources/city/city_background.jpg",
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/car.png",
+      "name": "./src/assets/resources/city/car.png",
       "index": 85,
       "index2": 83,
-      "size": 74,
+      "size": 62,
       "cacheable": true,
       "built": true,
       "optional": true,
@@ -641,11 +606,11 @@
     },
     {
       "id": 65,
-      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/city_houses_1.png",
-      "name": "./src/assets/resources/city/city_houses_1.png",
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/city_background.jpg",
+      "name": "./src/assets/resources/city/city_background.jpg",
       "index": 86,
       "index2": 84,
-      "size": 72,
+      "size": 74,
       "cacheable": true,
       "built": true,
       "optional": true,
@@ -674,8 +639,8 @@
     },
     {
       "id": 66,
-      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/city_houses_2.png",
-      "name": "./src/assets/resources/city/city_houses_2.png",
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/city_houses_1.png",
+      "name": "./src/assets/resources/city/city_houses_1.png",
       "index": 87,
       "index2": 85,
       "size": 72,
@@ -707,11 +672,11 @@
     },
     {
       "id": 67,
-      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/road.png",
-      "name": "./src/assets/resources/city/road.png",
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/city_houses_2.png",
+      "name": "./src/assets/resources/city/city_houses_2.png",
       "index": 88,
       "index2": 86,
-      "size": 63,
+      "size": 72,
       "cacheable": true,
       "built": true,
       "optional": true,
@@ -740,11 +705,11 @@
     },
     {
       "id": 68,
-      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/tv.png",
-      "name": "./src/assets/resources/city/tv.png",
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/road.png",
+      "name": "./src/assets/resources/city/road.png",
       "index": 89,
       "index2": 87,
-      "size": 61,
+      "size": 63,
       "cacheable": true,
       "built": true,
       "optional": true,
@@ -773,11 +738,44 @@
     },
     {
       "id": 69,
+      "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city/tv.png",
+      "name": "./src/assets/resources/city/tv.png",
+      "index": 90,
+      "index2": 88,
+      "size": 61,
+      "cacheable": true,
+      "built": true,
+      "optional": true,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+      "issuerId": 63,
+      "issuerName": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 63,
+          "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/src/assets/resources/city sync /\\.(jpg|jpeg|png)$/",
+          "name": "./src/assets/resources/city sync \\.(jpg|jpeg|png)$"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 70,
       "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js 3f7660accece099482dbd0af6954eb5d",
       "name": "./src/app.js + 19 modules",
       "index": 0,
-      "index2": 89,
-      "size": 18308,
+      "index2": 90,
+      "size": 19279,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -798,7 +796,7 @@
           "identifier": "/home/iivanovw7/WEB/pixi-parallax-scroll/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/pixi-parallax-scroll/src/app.js",
           "name": "./src/app.js",
           "index": 0,
-          "index2": 89,
+          "index2": 90,
           "size": 639,
           "cacheable": true,
           "built": true,
@@ -897,7 +895,7 @@
           "name": "./src/templates/city.js",
           "index": 17,
           "index2": 78,
-          "size": 2447,
+          "size": 2739,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -985,7 +983,7 @@
           "name": "./src/config/city.js",
           "index": 12,
           "index2": 8,
-          "size": 1123,
+          "size": 1458,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1140,7 +1138,7 @@
           "name": "./src/core/index.js",
           "index": 18,
           "index2": 76,
-          "size": 2292,
+          "size": 2637,
           "cacheable": true,
           "built": true,
           "optional": false,
