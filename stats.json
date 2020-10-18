@@ -1,0 +1,1862 @@
+{
+  "assets": [
+    {
+      "name": "./index.html",
+      "size": 3170,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/css/chunk-0.css",
+      "size": 4958,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/cursor.png",
+      "size": 1311,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_background.jpg",
+      "size": 289016,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_1.png",
+      "size": 760,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_10.png",
+      "size": 1366,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_11.png",
+      "size": 1159,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_12.png",
+      "size": 965,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_13.png",
+      "size": 1299,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_14.png",
+      "size": 802,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_15.png",
+      "size": 1263,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_16.png",
+      "size": 3079,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_17.png",
+      "size": 2303,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_18.png",
+      "size": 2016,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_2.png",
+      "size": 979,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_3.png",
+      "size": 1068,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_4.png",
+      "size": 3951,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_5.png",
+      "size": 1567,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_6.png",
+      "size": 1167,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_7.png",
+      "size": 3175,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_8.png",
+      "size": 3576,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/img/thingies_item_9.png",
+      "size": 1262,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/main.bundle.js",
+      "size": 19554,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.babel.bundle.js",
+      "size": 536,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "npm.babel"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.core-js.bundle.js",
+      "size": 120110,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "npm.core-js"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.earcut.bundle.js",
+      "size": 6527,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "npm.earcut"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.es6-promise-polyfill.bundle.js",
+      "size": 2934,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "npm.es6-promise-polyfill"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.eventemitter3.bundle.js",
+      "size": 2818,
+      "chunks": [
+        5
+      ],
+      "chunkNames": [
+        "npm.eventemitter3"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.immer.bundle.js",
+      "size": 7825,
+      "chunks": [
+        6
+      ],
+      "chunkNames": [
+        "npm.immer"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.ismobilejs.bundle.js",
+      "size": 1797,
+      "chunks": [
+        7
+      ],
+      "chunkNames": [
+        "npm.ismobilejs"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.mini-signals.bundle.js",
+      "size": 2433,
+      "chunks": [
+        8
+      ],
+      "chunkNames": [
+        "npm.mini-signals"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.node-libs-browser.bundle.js",
+      "size": 2588,
+      "chunks": [
+        9
+      ],
+      "chunkNames": [
+        "npm.node-libs-browser"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.object-assign.bundle.js",
+      "size": 1056,
+      "chunks": [
+        10
+      ],
+      "chunkNames": [
+        "npm.object-assign"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.parse-uri.bundle.js",
+      "size": 876,
+      "chunks": [
+        11
+      ],
+      "chunkNames": [
+        "npm.parse-uri"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.pixi.bundle.js",
+      "size": 356385,
+      "chunks": [
+        12
+      ],
+      "chunkNames": [
+        "npm.pixi"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.pixi.js.bundle.js",
+      "size": 1343,
+      "chunks": [
+        13
+      ],
+      "chunkNames": [
+        "npm.pixi.js"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.process.bundle.js",
+      "size": 1740,
+      "chunks": [
+        14
+      ],
+      "chunkNames": [
+        "npm.process"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.querystring-es3.bundle.js",
+      "size": 1600,
+      "chunks": [
+        15
+      ],
+      "chunkNames": [
+        "npm.querystring-es3"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.redux-saga.bundle.js",
+      "size": 11559,
+      "chunks": [
+        17
+      ],
+      "chunkNames": [
+        "npm.redux-saga"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.redux.bundle.js",
+      "size": 5946,
+      "chunks": [
+        16
+      ],
+      "chunkNames": [
+        "npm.redux"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.regenerator-runtime.bundle.js",
+      "size": 6571,
+      "chunks": [
+        18
+      ],
+      "chunkNames": [
+        "npm.regenerator-runtime"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.resource-loader.bundle.js",
+      "size": 18220,
+      "chunks": [
+        19
+      ],
+      "chunkNames": [
+        "npm.resource-loader"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.setimmediate.bundle.js",
+      "size": 1737,
+      "chunks": [
+        20
+      ],
+      "chunkNames": [
+        "npm.setimmediate"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.svg-baker-runtime.bundle.js",
+      "size": 2954,
+      "chunks": [
+        21
+      ],
+      "chunkNames": [
+        "npm.svg-baker-runtime"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.svg-sprite-loader.bundle.js",
+      "size": 9310,
+      "chunks": [
+        22
+      ],
+      "chunkNames": [
+        "npm.svg-sprite-loader"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.symbol-observable.bundle.js",
+      "size": 470,
+      "chunks": [
+        23
+      ],
+      "chunkNames": [
+        "npm.symbol-observable"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.timers-browserify.bundle.js",
+      "size": 1133,
+      "chunks": [
+        24
+      ],
+      "chunkNames": [
+        "npm.timers-browserify"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.url.bundle.js",
+      "size": 7767,
+      "chunks": [
+        25
+      ],
+      "chunkNames": [
+        "npm.url"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/npm.webpack.bundle.js",
+      "size": 861,
+      "chunks": [
+        26
+      ],
+      "chunkNames": [
+        "npm.webpack"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "assets/js/runtime.bundle.js",
+      "size": 8635,
+      "chunks": [
+        27
+      ],
+      "chunkNames": [
+        "runtime"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "modules": [
+    {
+      "id": 19,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/pixi.js/lib/pixi.es.js",
+      "name": "./node_modules/pixi.js/lib/pixi.es.js",
+      "index": 408,
+      "index2": 441,
+      "size": 42045,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        13
+      ],
+      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+      "issuerId": null,
+      "issuerName": "./src/components/thingiesScreen/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+          "name": "./src/components/thingiesScreen/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 44,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/utils/index.js 6c002bda7c043cfdda0caba001084655",
+      "name": "./src/utils/index.js + 2 modules",
+      "index": 383,
+      "index2": 384,
+      "size": 7757,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "modules": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/utils/index.js",
+          "name": "./src/utils/index.js",
+          "index": 383,
+          "index2": 384,
+          "size": 69,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "issuerId": null,
+          "issuerName": "./src/app.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/utils/helpers.js",
+          "name": "./src/utils/helpers.js",
+          "index": 384,
+          "index2": 382,
+          "size": 5347,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/utils/index.js",
+          "issuerId": null,
+          "issuerName": "./src/utils/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/utils/index.js",
+              "name": "./src/utils/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/utils/register-service-worker.js",
+          "name": "./src/utils/register-service-worker.js",
+          "index": 386,
+          "index2": 383,
+          "size": 2336,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/utils/index.js",
+          "issuerId": null,
+          "issuerName": "./src/utils/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/utils/index.js",
+              "name": "./src/utils/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        }
+      ],
+      "filteredModules": 0
+    },
+    {
+      "id": 57,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux/es/redux.js",
+      "name": "./node_modules/redux/es/redux.js",
+      "index": 461,
+      "index2": 460,
+      "size": 24154,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        16
+      ],
+      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+      "issuerId": 197,
+      "issuerName": "./src/store/configureStore.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 197,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+          "name": "./src/store/configureStore.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 70,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/internals/path.js",
+      "name": "./node_modules/core-js/internals/path.js",
+      "index": 38,
+      "index2": 30,
+      "size": 71,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/stable/index.js",
+      "issuerId": 206,
+      "issuerName": "./node_modules/core-js/stable/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 206,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/stable/index.js",
+          "name": "./node_modules/core-js/stable/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 83,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/combineReducers.js df70bec869f74107cd43574adc984851",
+      "name": "./src/store/combineReducers.js + 1 modules",
+      "index": 465,
+      "index2": 465,
+      "size": 1527,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "modules": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/combineReducers.js",
+          "name": "./src/store/combineReducers.js",
+          "index": 465,
+          "index2": 465,
+          "size": 405,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+          "issuerId": 197,
+          "issuerName": "./src/store/configureStore.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": 197,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+              "name": "./src/store/configureStore.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/core/reducer.js",
+          "name": "./src/core/reducer.js",
+          "index": 466,
+          "index2": 464,
+          "size": 1102,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/combineReducers.js",
+          "issuerId": null,
+          "issuerName": "./src/store/combineReducers.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": 197,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+              "name": "./src/store/configureStore.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/combineReducers.js",
+              "name": "./src/store/combineReducers.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        }
+      ],
+      "filteredModules": 0
+    },
+    {
+      "id": 197,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+      "name": "./src/store/configureStore.js",
+      "index": 451,
+      "index2": 466,
+      "size": 2386,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+      "issuerId": null,
+      "issuerName": "./src/app.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 203,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js b9a729c842bdcbf1c0f81fd26e7cc36a",
+      "name": "./node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js + 6 modules",
+      "index": 452,
+      "index2": 462,
+      "size": 60944,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        17
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "modules": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+          "name": "./node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+          "index": 452,
+          "index2": 462,
+          "size": 145,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+          "issuerId": 197,
+          "issuerName": "./src/store/configureStore.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": 197,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+              "name": "./src/store/configureStore.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "name": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "index": 453,
+          "index2": 461,
+          "size": 37882,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+          "issuerId": null,
+          "issuerName": "./node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": 197,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+              "name": "./src/store/configureStore.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+              "name": "./node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/symbols/dist/redux-saga-symbols.esm.js",
+          "name": "./node_modules/@redux-saga/symbols/dist/redux-saga-symbols.esm.js",
+          "index": 454,
+          "index2": 450,
+          "size": 856,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "issuerId": null,
+          "issuerName": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": 197,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+              "name": "./src/store/configureStore.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+              "name": "./node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+              "name": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/is/dist/redux-saga-is.esm.js",
+          "name": "./node_modules/@redux-saga/is/dist/redux-saga-is.esm.js",
+          "index": 457,
+          "index2": 453,
+          "size": 1974,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "issuerId": null,
+          "issuerName": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": 197,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+              "name": "./src/store/configureStore.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+              "name": "./node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+              "name": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/delay-p/dist/redux-saga-delay-p.esm.js",
+          "name": "./node_modules/@redux-saga/delay-p/dist/redux-saga-delay-p.esm.js",
+          "index": 459,
+          "index2": 454,
+          "size": 351,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "issuerId": null,
+          "issuerName": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": 197,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+              "name": "./src/store/configureStore.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+              "name": "./node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+              "name": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/io-6de156f3.js",
+          "name": "./node_modules/@redux-saga/core/dist/io-6de156f3.js",
+          "index": 458,
+          "index2": 455,
+          "size": 19362,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "issuerId": null,
+          "issuerName": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": 197,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+              "name": "./src/store/configureStore.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+              "name": "./node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+              "name": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/deferred/dist/redux-saga-deferred.esm.js",
+          "name": "./node_modules/@redux-saga/deferred/dist/redux-saga-deferred.esm.js",
+          "index": 460,
+          "index2": 456,
+          "size": 359,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "issuerId": null,
+          "issuerName": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": 197,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
+              "name": "./src/store/configureStore.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js",
+              "name": "./node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@redux-saga/core/dist/redux-saga-core.esm.js",
+              "name": "./node_modules/@redux-saga/core/dist/redux-saga-core.esm.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        }
+      ],
+      "filteredModules": 0
+    },
+    {
+      "id": 204,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@pixi/filter-drop-shadow/lib/filter-drop-shadow.esm.js ee667809a81f2ffc25e086f64ae0cb58",
+      "name": "./node_modules/@pixi/filter-drop-shadow/lib/filter-drop-shadow.esm.js + 1 modules",
+      "index": 388,
+      "index2": 405,
+      "size": 18353,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        12
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "modules": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@pixi/filter-drop-shadow/lib/filter-drop-shadow.esm.js",
+          "name": "./node_modules/@pixi/filter-drop-shadow/lib/filter-drop-shadow.esm.js",
+          "index": 388,
+          "index2": 405,
+          "size": 9418,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+          "issuerId": null,
+          "issuerName": "./src/components/thingiesScreen/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+              "name": "./src/components/thingiesScreen/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@pixi/filter-kawase-blur/lib/filter-kawase-blur.esm.js",
+          "name": "./node_modules/@pixi/filter-kawase-blur/lib/filter-kawase-blur.esm.js",
+          "index": 389,
+          "index2": 404,
+          "size": 8915,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/@pixi/filter-drop-shadow/lib/filter-drop-shadow.esm.js",
+          "issuerId": null,
+          "issuerName": "./node_modules/@pixi/filter-drop-shadow/lib/filter-drop-shadow.esm.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+              "name": "./src/components/thingiesScreen/index.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@pixi/filter-drop-shadow/lib/filter-drop-shadow.esm.js",
+              "name": "./node_modules/@pixi/filter-drop-shadow/lib/filter-drop-shadow.esm.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        }
+      ],
+      "filteredModules": 0
+    },
+    {
+      "id": 206,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/stable/index.js",
+      "name": "./node_modules/core-js/stable/index.js",
+      "index": 1,
+      "index2": 374,
+      "size": 102,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+      "issuerId": null,
+      "issuerName": "./src/app.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 207,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/es/index.js",
+      "name": "./node_modules/core-js/es/index.js",
+      "index": 2,
+      "index2": 360,
+      "size": 8927,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/stable/index.js",
+      "issuerId": 206,
+      "issuerName": "./node_modules/core-js/stable/index.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js"
+        },
+        {
+          "id": 206,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/stable/index.js",
+          "name": "./node_modules/core-js/stable/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 430,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/regenerator-runtime/runtime.js",
+      "name": "./node_modules/regenerator-runtime/runtime.js",
+      "index": 376,
+      "index2": 375,
+      "size": 24583,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        18
+      ],
+      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+      "issuerId": null,
+      "issuerName": "./src/app.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 445,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/personal-page/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/personal-page/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/personal-page/src/styles/main.pcss",
+      "name": "./src/styles/main.pcss",
+      "index": 468,
+      "index2": 468,
+      "size": 39,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+      "issuerId": null,
+      "issuerName": "./src/app.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 446,
+      "identifier": "/home/iivanovw7/WEB/personal-page/assets/svg sync /\\.svg$/",
+      "name": "./assets/svg sync \\.svg$",
+      "index": 470,
+      "index2": 472,
+      "size": 179,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+      "issuerId": null,
+      "issuerName": "./src/app.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 448,
+      "identifier": "/home/iivanovw7/WEB/personal-page/assets/resources/thingies sync /\\.(jpg|jpeg|png)$/",
+      "name": "./assets/resources/thingies sync \\.(jpg|jpeg|png)$",
+      "index": 474,
+      "index2": 492,
+      "size": 667,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+      "issuerId": null,
+      "issuerName": "./src/app.js",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "id": 468,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js 8444e9ea3f951328f480db0d38311c79",
+      "name": "./src/app.js + 13 modules",
+      "index": 0,
+      "index2": 493,
+      "size": 29983,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "modules": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "name": "./src/app.js",
+          "index": 0,
+          "index2": 493,
+          "size": 2173,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+          "name": "./src/components/contactsCard/index.js",
+          "index": 377,
+          "index2": 385,
+          "size": 3284,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "issuerId": null,
+          "issuerName": "./src/app.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+          "name": "./src/components/thingiesScreen/index.js",
+          "index": 387,
+          "index2": 447,
+          "size": 3257,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "issuerId": null,
+          "issuerName": "./src/app.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/config/thingies.js",
+          "name": "./src/config/thingies.js",
+          "index": 449,
+          "index2": 449,
+          "size": 2939,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+          "issuerId": null,
+          "issuerName": "./src/app.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
+          "name": "./src/constants/index.js",
+          "index": 379,
+          "index2": 379,
+          "size": 80,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+          "issuerId": null,
+          "issuerName": "./src/components/contactsCard/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+              "name": "./src/components/contactsCard/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/config/contacts.js",
+          "name": "./src/config/contacts.js",
+          "index": 378,
+          "index2": 380,
+          "size": 886,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+          "issuerId": null,
+          "issuerName": "./src/components/contactsCard/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+              "name": "./src/components/contactsCard/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/core/index.js",
+          "name": "./src/core/index.js",
+          "index": 444,
+          "index2": 443,
+          "size": 9374,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+          "issuerId": null,
+          "issuerName": "./src/components/thingiesScreen/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+              "name": "./src/components/thingiesScreen/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/errorMessage/index.js",
+          "name": "./src/components/errorMessage/index.js",
+          "index": 446,
+          "index2": 444,
+          "size": 1584,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+          "issuerId": null,
+          "issuerName": "./src/components/thingiesScreen/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+              "name": "./src/components/thingiesScreen/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/elements/thingie.js",
+          "name": "./src/components/thingiesScreen/elements/thingie.js",
+          "index": 447,
+          "index2": 445,
+          "size": 4931,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+          "issuerId": null,
+          "issuerName": "./src/components/thingiesScreen/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+              "name": "./src/components/thingiesScreen/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/utils.js",
+          "name": "./src/components/thingiesScreen/utils.js",
+          "index": 448,
+          "index2": 446,
+          "size": 148,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+          "issuerId": null,
+          "issuerName": "./src/components/thingiesScreen/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+              "name": "./src/components/thingiesScreen/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/url-loader/dist/cjs.js??ref--9-0!/home/iivanovw7/WEB/personal-page/assets/img/cursor.png",
+          "name": "./assets/img/cursor.png",
+          "index": 450,
+          "index2": 448,
+          "size": 65,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/config/thingies.js",
+          "issuerId": null,
+          "issuerName": "./src/config/thingies.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/config/thingies.js",
+              "name": "./src/config/thingies.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/keys.js",
+          "name": "./src/constants/keys.js",
+          "index": 380,
+          "index2": 376,
+          "size": 155,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
+          "issuerId": null,
+          "issuerName": "./src/constants/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+              "name": "./src/components/contactsCard/index.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
+              "name": "./src/constants/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/events.js",
+          "name": "./src/constants/events.js",
+          "index": 381,
+          "index2": 377,
+          "size": 308,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
+          "issuerId": null,
+          "issuerName": "./src/constants/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+              "name": "./src/components/contactsCard/index.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
+              "name": "./src/constants/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/core/actions.js",
+          "name": "./src/core/actions.js",
+          "index": 445,
+          "index2": 442,
+          "size": 754,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/core/index.js",
+          "issuerId": null,
+          "issuerName": "./src/core/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+              "name": "./src/components/thingiesScreen/index.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/core/index.js",
+              "name": "./src/core/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        }
+      ],
+      "filteredModules": 0
+    }
+  ]
+}
