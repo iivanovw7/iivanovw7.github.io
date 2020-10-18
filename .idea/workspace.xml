@@ -66,12 +66,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/_/_/src/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
   <component name="RunManager">
@@ -108,6 +108,7 @@
       <workItem from="1575873050626" duration="98000" />
       <workItem from="1576013899407" duration="125000" />
       <workItem from="1602943045126" duration="925000" />
+      <workItem from="1603017027446" duration="530000" />
     </task>
     <servers />
   </component>
@@ -124,5 +125,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

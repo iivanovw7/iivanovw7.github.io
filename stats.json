@@ -10,7 +10,7 @@
     },
     {
       "name": "assets/css/chunk-0.css",
-      "size": 4958,
+      "size": 5026,
       "chunks": [
         0
       ],
@@ -110,7 +110,7 @@
     },
     {
       "name": "assets/img/thingies_item_18.png",
-      "size": 2016,
+      "size": 2315,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -134,7 +134,7 @@
     },
     {
       "name": "assets/img/thingies_item_4.png",
-      "size": 3951,
+      "size": 3456,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -142,7 +142,7 @@
     },
     {
       "name": "assets/img/thingies_item_5.png",
-      "size": 1567,
+      "size": 1216,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -158,7 +158,7 @@
     },
     {
       "name": "assets/img/thingies_item_7.png",
-      "size": 3175,
+      "size": 2860,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -182,7 +182,7 @@
     },
     {
       "name": "assets/js/main.bundle.js",
-      "size": 19554,
+      "size": 20444,
       "chunks": [
         0
       ],
@@ -206,7 +206,7 @@
     },
     {
       "name": "assets/js/npm.core-js.bundle.js",
-      "size": 120110,
+      "size": 120115,
       "chunks": [
         2
       ],
@@ -520,6 +520,134 @@
   "modules": [
     {
       "id": 19,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js 72004778706c392c25fb9ec769a05c18",
+      "name": "./src/constants/index.js + 2 modules",
+      "index": 379,
+      "index2": 379,
+      "size": 827,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "modules": [
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
+          "name": "./src/constants/index.js",
+          "index": 379,
+          "index2": 379,
+          "size": 80,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+          "issuerId": null,
+          "issuerName": "./src/components/contactsCard/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+              "name": "./src/components/contactsCard/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/keys.js",
+          "name": "./src/constants/keys.js",
+          "index": 380,
+          "index2": 376,
+          "size": 397,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
+          "issuerId": null,
+          "issuerName": "./src/constants/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+              "name": "./src/components/contactsCard/index.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
+              "name": "./src/constants/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        },
+        {
+          "id": null,
+          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/events.js",
+          "name": "./src/constants/events.js",
+          "index": 381,
+          "index2": 377,
+          "size": 345,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [],
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
+          "issuerId": null,
+          "issuerName": "./src/constants/index.js",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
+              "name": "./src/app.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+              "name": "./src/components/contactsCard/index.js"
+            },
+            {
+              "id": null,
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
+              "name": "./src/constants/index.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0
+        }
+      ],
+      "filteredModules": 0
+    },
+    {
+      "id": 20,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/pixi.js/lib/pixi.es.js",
       "name": "./node_modules/pixi.js/lib/pixi.es.js",
       "index": 408,
@@ -552,12 +680,12 @@
       "warnings": 0
     },
     {
-      "id": 44,
+      "id": 32,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/utils/index.js 6c002bda7c043cfdda0caba001084655",
       "name": "./src/utils/index.js + 2 modules",
       "index": 383,
       "index2": 384,
-      "size": 7757,
+      "size": 8766,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -605,7 +733,7 @@
           "name": "./src/utils/helpers.js",
           "index": 384,
           "index2": 382,
-          "size": 5347,
+          "size": 6351,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -665,7 +793,7 @@
       "filteredModules": 0
     },
     {
-      "id": 57,
+      "id": 58,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux/es/redux.js",
       "name": "./node_modules/redux/es/redux.js",
       "index": 461,
@@ -679,7 +807,7 @@
         16
       ],
       "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
-      "issuerId": 197,
+      "issuerId": 198,
       "issuerName": "./src/store/configureStore.js",
       "issuerPath": [
         {
@@ -688,7 +816,7 @@
           "name": "./src/app.js"
         },
         {
-          "id": 197,
+          "id": 198,
           "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
           "name": "./src/store/configureStore.js"
         }
@@ -698,7 +826,7 @@
       "warnings": 0
     },
     {
-      "id": 70,
+      "id": 71,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/internals/path.js",
       "name": "./node_modules/core-js/internals/path.js",
       "index": 38,
@@ -712,7 +840,7 @@
         2
       ],
       "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/stable/index.js",
-      "issuerId": 206,
+      "issuerId": 207,
       "issuerName": "./node_modules/core-js/stable/index.js",
       "issuerPath": [
         {
@@ -721,7 +849,7 @@
           "name": "./src/app.js"
         },
         {
-          "id": 206,
+          "id": 207,
           "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/stable/index.js",
           "name": "./node_modules/core-js/stable/index.js"
         }
@@ -731,7 +859,7 @@
       "warnings": 0
     },
     {
-      "id": 83,
+      "id": 84,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/combineReducers.js df70bec869f74107cd43574adc984851",
       "name": "./src/store/combineReducers.js + 1 modules",
       "index": 465,
@@ -765,7 +893,7 @@
           "prefetched": false,
           "chunks": [],
           "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
-          "issuerId": 197,
+          "issuerId": 198,
           "issuerName": "./src/store/configureStore.js",
           "issuerPath": [
             {
@@ -774,7 +902,7 @@
               "name": "./src/app.js"
             },
             {
-              "id": 197,
+              "id": 198,
               "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
               "name": "./src/store/configureStore.js"
             }
@@ -805,7 +933,7 @@
               "name": "./src/app.js"
             },
             {
-              "id": 197,
+              "id": 198,
               "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
               "name": "./src/store/configureStore.js"
             },
@@ -823,7 +951,7 @@
       "filteredModules": 0
     },
     {
-      "id": 197,
+      "id": 198,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
       "name": "./src/store/configureStore.js",
       "index": 451,
@@ -851,7 +979,7 @@
       "warnings": 0
     },
     {
-      "id": 203,
+      "id": 204,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js b9a729c842bdcbf1c0f81fd26e7cc36a",
       "name": "./node_modules/redux-saga/dist/redux-saga-core-npm-proxy.esm.js + 6 modules",
       "index": 452,
@@ -885,7 +1013,7 @@
           "prefetched": false,
           "chunks": [],
           "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
-          "issuerId": 197,
+          "issuerId": 198,
           "issuerName": "./src/store/configureStore.js",
           "issuerPath": [
             {
@@ -894,7 +1022,7 @@
               "name": "./src/app.js"
             },
             {
-              "id": 197,
+              "id": 198,
               "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
               "name": "./src/store/configureStore.js"
             }
@@ -925,7 +1053,7 @@
               "name": "./src/app.js"
             },
             {
-              "id": 197,
+              "id": 198,
               "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
               "name": "./src/store/configureStore.js"
             },
@@ -961,7 +1089,7 @@
               "name": "./src/app.js"
             },
             {
-              "id": 197,
+              "id": 198,
               "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
               "name": "./src/store/configureStore.js"
             },
@@ -1002,7 +1130,7 @@
               "name": "./src/app.js"
             },
             {
-              "id": 197,
+              "id": 198,
               "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
               "name": "./src/store/configureStore.js"
             },
@@ -1043,7 +1171,7 @@
               "name": "./src/app.js"
             },
             {
-              "id": 197,
+              "id": 198,
               "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
               "name": "./src/store/configureStore.js"
             },
@@ -1084,7 +1212,7 @@
               "name": "./src/app.js"
             },
             {
-              "id": 197,
+              "id": 198,
               "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
               "name": "./src/store/configureStore.js"
             },
@@ -1125,7 +1253,7 @@
               "name": "./src/app.js"
             },
             {
-              "id": 197,
+              "id": 198,
               "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/store/configureStore.js",
               "name": "./src/store/configureStore.js"
             },
@@ -1148,7 +1276,7 @@
       "filteredModules": 0
     },
     {
-      "id": 204,
+      "id": 205,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/@pixi/filter-drop-shadow/lib/filter-drop-shadow.esm.js ee667809a81f2ffc25e086f64ae0cb58",
       "name": "./node_modules/@pixi/filter-drop-shadow/lib/filter-drop-shadow.esm.js + 1 modules",
       "index": 388,
@@ -1240,7 +1368,7 @@
       "filteredModules": 0
     },
     {
-      "id": 206,
+      "id": 207,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/stable/index.js",
       "name": "./node_modules/core-js/stable/index.js",
       "index": 1,
@@ -1268,40 +1396,7 @@
       "warnings": 0
     },
     {
-      "id": 207,
-      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/es/index.js",
-      "name": "./node_modules/core-js/es/index.js",
-      "index": 2,
-      "index2": 360,
-      "size": 8927,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        2
-      ],
-      "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/stable/index.js",
-      "issuerId": 206,
-      "issuerName": "./node_modules/core-js/stable/index.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
-          "name": "./src/app.js"
-        },
-        {
-          "id": 206,
-          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/core-js/stable/index.js",
-          "name": "./node_modules/core-js/stable/index.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0
-    },
-    {
-      "id": 430,
+      "id": 431,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/regenerator-runtime/runtime.js",
       "name": "./node_modules/regenerator-runtime/runtime.js",
       "index": 376,
@@ -1329,7 +1424,7 @@
       "warnings": 0
     },
     {
-      "id": 445,
+      "id": 446,
       "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/mini-css-extract-plugin/dist/loader.js!/home/iivanovw7/WEB/personal-page/node_modules/css-loader/dist/cjs.js??ref--6-1!/home/iivanovw7/WEB/personal-page/node_modules/postcss-loader/src/index.js??ref--6-2!/home/iivanovw7/WEB/personal-page/src/styles/main.pcss",
       "name": "./src/styles/main.pcss",
       "index": 468,
@@ -1357,7 +1452,7 @@
       "warnings": 0
     },
     {
-      "id": 446,
+      "id": 447,
       "identifier": "/home/iivanovw7/WEB/personal-page/assets/svg sync /\\.svg$/",
       "name": "./assets/svg sync \\.svg$",
       "index": 470,
@@ -1384,7 +1479,7 @@
       "warnings": 0
     },
     {
-      "id": 448,
+      "id": 449,
       "identifier": "/home/iivanovw7/WEB/personal-page/assets/resources/thingies sync /\\.(jpg|jpeg|png)$/",
       "name": "./assets/resources/thingies sync \\.(jpg|jpeg|png)$",
       "index": 474,
@@ -1411,12 +1506,12 @@
       "warnings": 0
     },
     {
-      "id": 468,
-      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js 8444e9ea3f951328f480db0d38311c79",
-      "name": "./src/app.js + 13 modules",
+      "id": 469,
+      "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js 2880623260130ae9d6a45282ea41f679",
+      "name": "./src/app.js + 10 modules",
       "index": 0,
       "index2": 493,
-      "size": 29983,
+      "size": 30339,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -1484,7 +1579,7 @@
           "name": "./src/components/thingiesScreen/index.js",
           "index": 387,
           "index2": 447,
-          "size": 3257,
+          "size": 3339,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1532,37 +1627,6 @@
         },
         {
           "id": null,
-          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
-          "name": "./src/constants/index.js",
-          "index": 379,
-          "index2": 379,
-          "size": 80,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
-          "issuerId": null,
-          "issuerName": "./src/components/contactsCard/index.js",
-          "issuerPath": [
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
-              "name": "./src/app.js"
-            },
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
-              "name": "./src/components/contactsCard/index.js"
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0
-        },
-        {
-          "id": null,
           "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/config/contacts.js",
           "name": "./src/config/contacts.js",
           "index": 378,
@@ -1598,7 +1662,7 @@
           "name": "./src/core/index.js",
           "index": 444,
           "index2": 443,
-          "size": 9374,
+          "size": 9478,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1691,7 +1755,7 @@
           "name": "./src/components/thingiesScreen/utils.js",
           "index": 448,
           "index2": 446,
-          "size": 148,
+          "size": 856,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1741,78 +1805,6 @@
               "id": null,
               "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/config/thingies.js",
               "name": "./src/config/thingies.js"
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/keys.js",
-          "name": "./src/constants/keys.js",
-          "index": 380,
-          "index2": 376,
-          "size": 155,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
-          "issuerId": null,
-          "issuerName": "./src/constants/index.js",
-          "issuerPath": [
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
-              "name": "./src/app.js"
-            },
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
-              "name": "./src/components/contactsCard/index.js"
-            },
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
-              "name": "./src/constants/index.js"
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0
-        },
-        {
-          "id": null,
-          "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/events.js",
-          "name": "./src/constants/events.js",
-          "index": 381,
-          "index2": 377,
-          "size": 308,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
-          "issuerId": null,
-          "issuerName": "./src/constants/index.js",
-          "issuerPath": [
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/app.js",
-              "name": "./src/app.js"
-            },
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
-              "name": "./src/components/contactsCard/index.js"
-            },
-            {
-              "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/constants/index.js",
-              "name": "./src/constants/index.js"
             }
           ],
           "failed": false,
