@@ -182,7 +182,7 @@
     },
     {
       "name": "assets/js/main.bundle.js",
-      "size": 20462,
+      "size": 20432,
       "chunks": [
         0
       ],
@@ -1511,7 +1511,7 @@
       "name": "./src/app.js + 10 modules",
       "index": 0,
       "index2": 493,
-      "size": 30430,
+      "size": 30389,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -1579,7 +1579,7 @@
           "name": "./src/components/thingiesScreen/index.js",
           "index": 387,
           "index2": 447,
-          "size": 3430,
+          "size": 3389,
           "cacheable": true,
           "built": true,
           "optional": false,
