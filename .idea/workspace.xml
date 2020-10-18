@@ -19,7 +19,64 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1766d630-5509-49f8-a7da-047e0481144c" name="Default" comment="" />
+    <list default="true" id="1766d630-5509-49f8-a7da-047e0481144c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/chunk-0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/cursor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thingies_item_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.babel.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.core-js.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.earcut.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.es6-promise-polyfill.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.eventemitter3.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.immer.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.ismobilejs.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.mini-signals.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.node-libs-browser.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.object-assign.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.parse-uri.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.pixi.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.pixi.js.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.process.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.querystring-es3.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.redux-saga.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.redux.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.regenerator-runtime.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.resource-loader.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.setimmediate.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.svg-baker-runtime.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.svg-sprite-loader.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.symbol-observable.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.timers-browserify.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.url.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/npm.webpack.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/runtime.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/slashdot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stats.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +161,7 @@
       <workItem from="1576013899407" duration="125000" />
       <workItem from="1602943045126" duration="925000" />
       <workItem from="1603017027446" duration="530000" />
-      <workItem from="1603052662112" duration="512000" />
+      <workItem from="1603052662112" duration="1286000" />
     </task>
     <servers />
   </component>
