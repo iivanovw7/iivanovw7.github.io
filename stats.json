@@ -182,7 +182,7 @@
     },
     {
       "name": "assets/js/main.bundle.js",
-      "size": 20444,
+      "size": 20462,
       "chunks": [
         0
       ],
@@ -552,9 +552,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
+          "issuer": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
           "issuerId": null,
-          "issuerName": "./src/components/contactsCard/index.js",
+          "issuerName": "./src/components/thingiesScreen/index.js",
           "issuerPath": [
             {
               "id": null,
@@ -563,8 +563,8 @@
             },
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
-              "name": "./src/components/contactsCard/index.js"
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+              "name": "./src/components/thingiesScreen/index.js"
             }
           ],
           "failed": false,
@@ -594,8 +594,8 @@
             },
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
-              "name": "./src/components/contactsCard/index.js"
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+              "name": "./src/components/thingiesScreen/index.js"
             },
             {
               "id": null,
@@ -630,8 +630,8 @@
             },
             {
               "id": null,
-              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/contactsCard/index.js",
-              "name": "./src/components/contactsCard/index.js"
+              "identifier": "/home/iivanovw7/WEB/personal-page/node_modules/babel-loader/lib/index.js!/home/iivanovw7/WEB/personal-page/src/components/thingiesScreen/index.js",
+              "name": "./src/components/thingiesScreen/index.js"
             },
             {
               "id": null,
@@ -1511,7 +1511,7 @@
       "name": "./src/app.js + 10 modules",
       "index": 0,
       "index2": 493,
-      "size": 30339,
+      "size": 30370,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -1579,7 +1579,7 @@
           "name": "./src/components/thingiesScreen/index.js",
           "index": 387,
           "index2": 447,
-          "size": 3339,
+          "size": 3370,
           "cacheable": true,
           "built": true,
           "optional": false,

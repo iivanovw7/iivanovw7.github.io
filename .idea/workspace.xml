@@ -45,11 +45,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="25" />
-    <option name="width" value="1920" />
-    <option name="height" value="1134" />
-  </component>
   <component name="ProjectId" id="1j0Zbn3ihwrQjmTFOW56Zxi3NU6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -66,12 +61,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/_/_/src/img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
   <component name="RunManager">
@@ -109,6 +104,7 @@
       <workItem from="1576013899407" duration="125000" />
       <workItem from="1602943045126" duration="925000" />
       <workItem from="1603017027446" duration="530000" />
+      <workItem from="1603052662112" duration="512000" />
     </task>
     <servers />
   </component>
