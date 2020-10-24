@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1766d630-5509-49f8-a7da-047e0481144c" name="Default" comment="" />
+    <list default="true" id="1766d630-5509-49f8-a7da-047e0481144c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ABT/vip" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -105,6 +107,8 @@
       <workItem from="1602943045126" duration="925000" />
       <workItem from="1603017027446" duration="530000" />
       <workItem from="1603052662112" duration="3362000" />
+      <workItem from="1603092119273" duration="598000" />
+      <workItem from="1603114317463" duration="27000" />
     </task>
     <servers />
   </component>
@@ -122,5 +126,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="196" key="FileChooserDialogImpl" timestamp="1603114341997">
+      <screen x="0" y="28" width="1600" height="821" />
+    </state>
+    <state x="561" y="196" key="FileChooserDialogImpl/0.28.1600.821/1600.0.1920.1200@0.28.1600.821" timestamp="1603114341997" />
   </component>
 </project>
