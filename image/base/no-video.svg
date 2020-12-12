@@ -1,0 +1,20 @@
+<svg width="200" height="300" viewBox="0 0 200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="300" fill="white"/>
+    <path d="M150 75L0 0V150L150 75Z" fill="#252323"/>
+    <path d="M174 150L24 75V225L174 150Z" fill="#252323"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M64 95L44 85H24V95H64ZM84 105H24V115H104L84 105ZM24 135V125H124L144 135H24ZM24 185V195H84L104 185H24ZM24 215V205H64L44 215H24ZM24 175H124L144 165H24V175ZM174 150L164 155H24V145H164L174 150Z" fill="white"/>
+    <path d="M200 225L50 150V300L200 225Z" fill="#A6262E"/>
+    <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="24" y="75" width="150" height="150">
+        <path d="M174 150L24 75V225L174 150Z" fill="#A6262E"/>
+    </mask>
+    <g mask="url(#mask0)">
+        <mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="50" y="150" width="150" height="150">
+            <path d="M200 225L50 150V300L200 225Z" fill="#A6262E"/>
+        </mask>
+        <g mask="url(#mask1)">
+            <rect x="50" y="155" width="150" height="10" fill="#252323"/>
+            <rect x="50" y="175" width="150" height="10" fill="#252323"/>
+            <rect x="50" y="195" width="150" height="10" fill="#252323"/>
+        </g>
+    </g>
+</svg>
